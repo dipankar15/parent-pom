@@ -62,7 +62,7 @@
       					<username>${mule_uid}</username>
       					<password>${mule_passwd}</password>
                         <environment>${anypoint.env}</environment>
-						<businessGroupId>f008c4ff-ada6-45ba-bfe5-a261be5e63c8</businessGroupId>
+						<businessGroupId>${anypoint.bg}</businessGroupId>
                         <!--<connectedAppClientId>${mule_clntid}</connectedAppClientId>
                         <connectedAppClientSecret>${mule_clntsecret}</connectedAppClientSecret>
                         <connectedAppGrantType>client_credentials</connectedAppGrantType>-->      					
